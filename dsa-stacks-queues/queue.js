@@ -13,7 +13,8 @@ class Node {
  * Make it throw an error if you try to dequeue from an empty queue.
  *
  * Queue: chained-together nodes where you can remove from the front or add to the back.
- *
+ * 
+ * a line at the restroom first in should be first out! 
  *
  */
 class Queue {
